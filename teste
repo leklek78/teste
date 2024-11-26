@@ -1,0 +1,42 @@
+index.html 
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portfólio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao meu Portfólio</h1>
+        <nav>
+            <a href="#sobre">Sobre Mim</a>
+            <a href="#projetos">Projetos</a>
+            <a href="#contato">Contato</a>
+        </nav>
+    </header>
+    <main>
+        <section id="sobre">
+            <h2>Sobre Mim</h2>
+            <p>Olá! Sou [seu nome], desenvolvedor(a) iniciante aprendendo a criar sites incríveis!</p>
+        </section>
+        <section id="projetos">
+            <h2>Meus Projetos</h2>
+            <p>Ainda estou trabalhando em projetos. Volte mais tarde!</p>
+        </section>
+        <section id="contato">
+            <h2>Contato</h2>
+            <p>Entre em contato pelo e-mail: <a href="mailto:seuemail@example.com">seuemail@example.com</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Meu Portfólio</p>
+    </footer>
+</body>
+</html>
+<footer>
+    <p>&copy; 2024 Meu Portfólio</p>
+</footer>
+</body>
+</html>
